@@ -3,7 +3,7 @@ seo-projects/
 │-- README.md                     # Overview of the repository & instructions
 │
 │-- 01_Audit_Reports/
-│    │-- example.com_audit.pdf
+│    │-- dailylearningtools.com_audit.pdf
 │    │-- competitor1_audit.pdf
 │
 │-- 02_Keyword_Research/
@@ -27,3 +27,7 @@ seo-projects/
 │-- 06_Monthly_Reports/
 │    │-- January-2025-Report.pdf
 │    │-- February-2025-Report.pdf
+│    │-- March-2025-Report.pdf
+│    │-- April-2025-Report.pdf
+│    │-- May-2025-Report.pdf
+│    │-- June-2025-Report.pdf
